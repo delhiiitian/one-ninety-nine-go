@@ -1,0 +1,12 @@
+Go is an open source programming language that makes it simple to build secure,
+scalable systems. It was designed at Google in 2007 to improve programming
+productivity in an era of multicore, networked machines and large codebases.
+
+The designers wanted to address criticism of other languages in use at Google,
+but keep their useful characteristics. Go is statically typed and compiled. Its
+syntax is small, and it has garbage collection, structural typing, and
+concurrency built in. Programs start quickly and run fast.
+
+Today Go powers cloud infrastructure everywhere. Docker, Kubernetes, and
+Terraform are written in Go. Many teams choose it because new developers can
+read the code on their first day.

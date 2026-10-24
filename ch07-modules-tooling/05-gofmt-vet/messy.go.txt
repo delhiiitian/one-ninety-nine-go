@@ -1,0 +1,12 @@
+package main
+import "fmt"
+func main(){
+x:=10
+    if x>5 {
+fmt.Printf("x is %s\n",x)     // vet: %s with an int
+  }
+	name := "Go"
+	fmt.Println("hello" , name ,)
+	for i:=0;i<3;i++{ fmt.Println(i) }
+	x = x
+}
